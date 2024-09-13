@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou [Augusto Farias de Lima] 👋
 
-<!--
-**AugustoFL/AugustoFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo: **Java, C++, Desenvolvimento Web**.
+- 🎯 Objetivo: Melhorar em **Desenvolvimento Web** e contribuir para **projetos open-source**.
+- 💼 Trabalhando em: [Sistema Matricular](https://github.com/AugustoFL/tcc).
+-    "Consertando o mundo, um erro de cada vez."
 
-Here are some ideas to get you started:
+[![GitHub Follow](https://img.shields.io/github/followers/AugustoFL?label=Follow&style=social)](https://github.com/seu-usuario)
+[![GitHub Stars](https://img.shields.io/github/stars/AugustoFL?style=social)](https://github.com/seu-usuario?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Akshan](https://media.giphy.com/media/link-do-seu-gif/giphy.gif)
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?AugustoFL&show_icons=true&theme=radical)
