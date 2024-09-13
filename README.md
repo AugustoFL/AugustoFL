@@ -5,8 +5,6 @@
 - 💼 Trabalhando em: [Sistema Matricular](https://github.com/AugustoFL/tcc).
 -    "Consertando o mundo, um erro de cada vez."
 
-[![GitHub Follow](https://img.shields.io/github/followers/AugustoFL?label=Follow&style=social)](https://github.com/seu-usuario)
-[![GitHub Stars](https://img.shields.io/github/stars/AugustoFL?style=social)](https://github.com/seu-usuario?tab=repositories)
 
 ![Akshan](https://media.giphy.com/media/link-do-seu-gif/giphy.gif)
 
