@@ -17,7 +17,7 @@ Aqui você encontrará meus projetos, estudos e ideias
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -28,19 +28,19 @@ Aqui você encontrará meus projetos, estudos e ideias
 
 ---
 
-## 🌟 Projetos em destaque
+##  Projetos em destaque
 
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 ![AugustoFL's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoFL&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFL&layout=compact&theme=dracula)
 
 ---
 
-## 📫 Conecte-se comigo
+##  Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-fl/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farias.augusto.lima@gmail.com)
